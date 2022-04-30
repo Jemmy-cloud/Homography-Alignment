@@ -2,8 +2,8 @@
 
 A small attempt to stitching Two images capturing the same scene in OpenCV using feature detection and matching in Python Programming language.
 
-## Food Ordering & Delivery App UI in Flutter
-<img src="screens/full_ui.png"  />
+## Stitched Output
+<img src="Python/stitchedOutputProcessed.png"  />
 
 ## ScreenShots
 ### Home Page
