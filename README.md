@@ -6,7 +6,7 @@ When I input two images with overlapped fields, I expect to obtain a wide panora
 
 ## Sample 
 
-### Input images
+### Input Images
 <img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/left_image.png" width=500 height=500 >   <img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/right%20image.png" width=500 height=500 >
 
 ### Matching
