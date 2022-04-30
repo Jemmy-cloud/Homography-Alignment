@@ -20,7 +20,7 @@ When I input two images with overlapped fields, I expect to obtain a wide panora
 
 
 ## ✨Dependency
-- Python 2 or 3 
-- OpenCV 3
+- Python 3.10.4
+- OpenCV 4.5.5
 
 
