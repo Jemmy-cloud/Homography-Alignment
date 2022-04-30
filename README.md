@@ -18,8 +18,7 @@ A small attempt to stitching Two images capturing the same scene in OpenCV using
 
 ## Input images
 ### Left Image  Right Image
-![left_image](https://user-images.githubusercontent.com/85626938/166118088-08b412f6-efbe-49d6-904b-2c56e531b033.png)
-<img src="screens/detail_screen.jpg" height="500em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/add_to_cart_screen.jpg" height="500em" />
+![left_image](https://user-images.githubusercontent.com/85626938/166118088-08b412f6-efbe-49d6-904b-2c56e531b033.png)   <img src="screens/detail_screen.jpg" height="500em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/add_to_cart_screen.jpg" height="500em" />
 
 
 ### Login & Registration Screen
