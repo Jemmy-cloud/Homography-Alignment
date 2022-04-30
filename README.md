@@ -10,9 +10,9 @@ A small attempt to stitching Two images capturing the same scene in OpenCV using
 ## Sample 
 
 ## Input images
-<img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/left_image.png" width=500 height=500 >   <img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/right%20image.png" width=500 height=500 >
+<img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/left_image.png" width=600 height=600 >   <img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/right%20image.png" width=600 height=600 >
 ## Matching
-![matching](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/matching.jpg)
+<img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/stitchedOutput.png"
 
 ## Output image
 ![pano](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/panorama.jpg)
