@@ -3,7 +3,7 @@
 A small attempt to stitching Two images capturing the same scene in OpenCV using feature detection and matching in Python Programming language.
 
 ## Stitched Output
-<img src="Python/stitchedOutputProcessed.png"  />
+![stitchedOutputProcessed](https://user-images.githubusercontent.com/85626938/166118022-dc4962b4-e04c-4db7-b763-29247e699115.png)
 
 ## ScreenShots
 ### Home Page
