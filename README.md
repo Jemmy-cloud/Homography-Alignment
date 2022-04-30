@@ -8,7 +8,7 @@ When I input two images with overlapped fields, I expect to obtain a wide panora
 ## Sample 
 
 ### Input Images
-<img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/left_image.png" width=500 height=400 >   <img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/right%20image.png" width=500 height=400 >
+<img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/left_image.png" width=300 height=400 >   <img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/right%20image.png" width=300 height=400 >
 
 ### Matching
 ![matching](https://user-images.githubusercontent.com/85626938/166119292-bc2436c7-ca00-4c1d-9aaf-67bbbfc3798e.png)
