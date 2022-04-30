@@ -11,17 +11,9 @@ A small attempt to stitching Two images capturing the same scene in OpenCV using
 
 ## Input images
 <img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/left_image.png" width=500 height=500 >   <img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/unstitchedImages/right%20image.png" width=500 height=500 >
+
 ## Matching
-<img src="https://github.com/Jemmy-cloud/Homography-Alignment/blob/master/stitchedOutput.png"
-
-## Output image
-![pano](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/panorama.jpg)
-
-
-
-
-
-
+![matching](https://user-images.githubusercontent.com/85626938/166119043-1fe1ae68-96f9-4c69-84cc-a8afd520f8b9.png)
 
 ## Output image
 ![stitchedOutputProcessed](https://user-images.githubusercontent.com/85626938/166118022-dc4962b4-e04c-4db7-b763-29247e699115.png)
