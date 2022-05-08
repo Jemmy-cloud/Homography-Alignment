@@ -1,6 +1,6 @@
 # Homography Alignment
 
-A small attempt to stitching Two images capturing the same scene in OpenCV using feature detection, homography, and matching in Python Programming language.
+Automatic Panoramic to stitching Two images capturing the same scene in OpenCV using feature detection, homography, and matching in Python Programming language.
 
 When I input two images with overlapped fields, I expect to obtain a wide panorama. Finally applying a weighted matrix as a mask for image blending.
 
